@@ -14,7 +14,7 @@
 <p align="left">
 🎓 INGENIERO EN INFORMÁTICA
 
-🎥 PEQUEÑÍSISIMO CREADOR DE CONTENIDO que intenta trasmitir sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
